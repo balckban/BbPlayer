@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/armeabi-v7a",
+  "command": "/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi23 --gcc-toolchain=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DJCMPlayer_EXPORTS -I../../../../src/main/cpp/3rdparty/libglm/include -I../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/JCMPlayer.dir/src/main/cpp/OpenSLInterface.c.o   -c /Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/OpenSLInterface.c",
+  "file": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/OpenSLInterface.c"
+},
+
+{
+  "directory": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/armeabi-v7a",
+  "command": "/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DJCMPlayer_EXPORTS -I../../../../src/main/cpp/3rdparty/libglm/include -I../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/JCMPlayer.dir/src/main/cpp/CCOpenGLShader.cpp.o -c /Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/CCOpenGLShader.cpp",
+  "file": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/CCOpenGLShader.cpp"
+},
+
+{
+  "directory": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/armeabi-v7a",
+  "command": "/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DJCMPlayer_EXPORTS -I../../../../src/main/cpp/3rdparty/libglm/include -I../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/JCMPlayer.dir/src/main/cpp/CCGLVideoRender.cpp.o -c /Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/CCGLVideoRender.cpp",
+  "file": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/CCGLVideoRender.cpp"
+},
+
+{
+  "directory": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/armeabi-v7a",
+  "command": "/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DJCMPlayer_EXPORTS -I../../../../src/main/cpp/3rdparty/libglm/include -I../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAudioPlayer.cpp.o -c /Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/JCAudioPlayer.cpp",
+  "file": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/JCAudioPlayer.cpp"
+},
+
+{
+  "directory": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/armeabi-v7a",
+  "command": "/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DJCMPlayer_EXPORTS -I../../../../src/main/cpp/3rdparty/libglm/include -I../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAVCodecHandler.cpp.o -c /Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/JCAVCodecHandler.cpp",
+  "file": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/JCAVCodecHandler.cpp"
+},
+
+{
+  "directory": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/armeabi-v7a",
+  "command": "/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DJCMPlayer_EXPORTS -I../../../../src/main/cpp/3rdparty/libglm/include -I../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/JCMPlayer.dir/src/main/cpp/JCMPlayer.cpp.o -c /Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/JCMPlayer.cpp",
+  "file": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/src/main/cpp/JCMPlayer.cpp"
+}
+]

@@ -1,0 +1,10 @@
+ninja: Entering directory `/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/3a2w2e2w/armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAVCodecHandler.cpp.o
+FAILED: CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAVCodecHandler.cpp.o 
+/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenchao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DJCMPlayer_EXPORTS -I../../../../src/main/cpp/libFFmpeg/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -MD -MT CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAVCodecHandler.cpp.o -MF CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAVCodecHandler.cpp.o.d -o CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAVCodecHandler.cpp.o -c ../../../../src/main/cpp/JCAVCodecHandler.cpp
+In file included from ../../../../src/main/cpp/JCAVCodecHandler.cpp:5:
+../../../../src/main/cpp/JCAVCodecHandler.h:14:10: fatal error: 'JCDataDefine.h' file not found
+#include "JCDataDefine.h"
+         ^~~~~~~~~~~~~~~~
+1 error generated.
+ninja: build stopped: subcommand failed.

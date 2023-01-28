@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/chenchao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/chenchao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "JCMPlayer-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/chenchao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/arm64-v8a",
+        "JCMPlayer"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "JCMPlayer",
+      "output": "/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/build/intermediates/cxx/Debug/641u6847/obj/arm64-v8a/libJCMPlayer.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

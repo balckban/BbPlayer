@@ -1,0 +1,13 @@
+# ninja log v5
+0	156	1629362898	CMakeFiles/JCMPlayer.dir/src/main/cpp/JCMPlayer.cpp.o	59c2d4c508437d9f
+156	231	1629362898	../../../../build/intermediates/cxx/Debug/3a2w2e2w/obj/armeabi-v7a/libJCMPlayer.so	103b0c3e19ab96c8
+0	58	1629365029	CMakeFiles/JCMPlayer.dir/src/main/cpp/JCMPlayer.cpp.o	59c2d4c508437d9f
+58	90	1629365029	../../../../build/intermediates/cxx/Debug/3a2w2e2w/obj/armeabi-v7a/libJCMPlayer.so	103b0c3e19ab96c8
+0	56	0	clean	966c6ddfb67b85e2
+0	72	1629369750	CMakeFiles/JCMPlayer.dir/src/main/cpp/JCMPlayer.cpp.o	59c2d4c508437d9f
+73	109	1629369750	../../../../build/intermediates/cxx/Debug/3a2w2e2w/obj/armeabi-v7a/libJCMPlayer.so	103b0c3e19ab96c8
+0	646	1629389529	CMakeFiles/JCMPlayer.dir/src/main/cpp/JCMPlayer.cpp.o	59c2d4c508437d9f
+647	1226	1629389529	../../../../build/intermediates/cxx/Debug/3a2w2e2w/obj/armeabi-v7a/libJCMPlayer.so	103b0c3e19ab96c8
+2	396	1629390203	CMakeFiles/JCMPlayer.dir/src/main/cpp/JCMPlayer.cpp.o	59c2d4c508437d9f
+1	938	1629390204	CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAVCodecHandler.cpp.o	a3bf99c12005467
+938	1374	1629390204	../../../../build/intermediates/cxx/Debug/3a2w2e2w/obj/armeabi-v7a/libJCMPlayer.so	b00756cdbe390501

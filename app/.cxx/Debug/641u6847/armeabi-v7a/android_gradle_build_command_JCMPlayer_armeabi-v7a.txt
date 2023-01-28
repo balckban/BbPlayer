@@ -1,0 +1,7 @@
+Executable : /Users/chenchao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/armeabi-v7a
+JCMPlayer
+jvmArgs : 
+

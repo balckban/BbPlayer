@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,45 @@
+ninja: Entering directory `/Users/chenchao/AndroidStudioProjects/JCMPlayer/app/.cxx/Debug/641u6847/armeabi-v7a'
+[1/3] Building CXX object CMakeFiles/JCMPlayer.dir/src/main/cpp/JCAVCodecHandler.cpp.o
+../../../../src/main/cpp/JCAVCodecHandler.cpp:499:19: warning: 'av_dup_packet' is deprecated [-Wdeprecated-declarations]
+            if ( !av_dup_packet( packet ) ){
+                  ^
+../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include/libavcodec/avcodec.h:4449:1: note: 'av_dup_packet' has been explicitly marked deprecated here
+attribute_deprecated
+^
+../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include/libavutil/attributes.h:94:49: note: expanded from macro 'attribute_deprecated'
+#    define attribute_deprecated __attribute__((deprecated))
+                                                ^
+../../../../src/main/cpp/JCAVCodecHandler.cpp:510:19: warning: 'av_dup_packet' is deprecated [-Wdeprecated-declarations]
+            if ( !av_dup_packet( packet ) ){
+                  ^
+../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include/libavcodec/avcodec.h:4449:1: note: 'av_dup_packet' has been explicitly marked deprecated here
+attribute_deprecated
+^
+../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include/libavutil/attributes.h:94:49: note: expanded from macro 'attribute_deprecated'
+#    define attribute_deprecated __attribute__((deprecated))
+                                                ^
+../../../../src/main/cpp/JCAVCodecHandler.cpp:902:5: warning: 'av_free_packet' is deprecated [-Wdeprecated-declarations]
+    av_free_packet( pkt );
+    ^
+../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include/libavcodec/avcodec.h:4472:1: note: 'av_free_packet' has been explicitly marked deprecated here
+attribute_deprecated
+^
+../../../../src/main/cpp/3rdparty/libFFmpeg/armeabi-v7a/include/libavutil/attributes.h:94:49: note: expanded from macro 'attribute_deprecated'
+#    define attribute_deprecated __attribute__((deprecated))
+                                                ^
+3 warnings generated.
+[2/3] Building CXX object CMakeFiles/JCMPlayer.dir/src/main/cpp/JCMPlayer.cpp.o
+In file included from ../../../../src/main/cpp/JCMPlayer.cpp:6:
+../../../../src/main/cpp/CCNDKCommonDef.h:40:32: warning: format specifies type 'char *' but the argument has type 'GLenum' (aka 'unsigned int') [-Wformat]
+            LOGD("glError: %s",err);
+                           ~~  ^~~
+                           %u
+../../../../src/main/cpp/CCNDKLogDef.h:15:62: note: expanded from macro 'LOGD'
+#define LOGD(...)  __android_log_print(ANDROID_LOG_DEBUG,LOG,__VA_ARGS__)
+                                                             ^~~~~~~~~~~
+../../../../src/main/cpp/JCMPlayer.cpp:25:63: warning: implicit conversion of NULL constant to 'unsigned long' [-Wnull-conversion]
+    m_avCodecHandler.SetupUpdateVideoCallback(updateVideoData,NULL);
+                     ~~~~~~~~~~~~~~~~~~~~~~~~                 ^~~~
+                                                              0
+2 warnings generated.
+[3/3] Linking CXX shared library ../../../../build/intermediates/cxx/Debug/641u6847/obj/armeabi-v7a/libJCMPlayer.so
