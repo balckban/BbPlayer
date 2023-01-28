@@ -1,0 +1,3 @@
+/Users/jqsong/Dev/BbPlayer-Android/app/.cxx/Debug/706n1710/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jqsong/Dev/BbPlayer-Android/app/.cxx/Debug/706n1710/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jqsong/Dev/BbPlayer-Android/app/.cxx/Debug/706n1710/arm64-v8a/CMakeFiles/JCMPlayer.dir
