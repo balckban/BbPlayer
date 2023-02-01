@@ -1,6 +1,4 @@
-//
-// Created by chenchao on 2021/8/20.
-//
+
 
 #include "JCAVCodecHandler.h"
 #include "CCNDKLogDef.h"

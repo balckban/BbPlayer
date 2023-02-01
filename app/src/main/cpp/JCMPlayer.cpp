@@ -1,6 +1,3 @@
-//
-// Created by chenchao on 2021/8/19.
-//
 
 #include "JCMPlayer.h"
 #include "CCNDKCommonDef.h"

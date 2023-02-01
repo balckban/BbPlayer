@@ -1,6 +1,3 @@
-//
-// Created by chenchao on 2021/8/10.
-//
 
 #ifndef JCMPLAYER_CCNDKCOMMONDEF_H
 #define JCMPLAYER_CCNDKCOMMONDEF_H

@@ -1,6 +1,4 @@
-//
-// Created by chenchao on 2021/8/21.
-//
+
 
 #include "JCAudioPlayer.h"
 #include "CCNDKLogDef.h"

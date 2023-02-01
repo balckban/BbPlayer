@@ -1,6 +1,3 @@
-//
-// Created by chenchao on 2021/8/13.
-//
 
 #ifndef CCOPENGLES_CCOPENGLSHADER_H
 #define CCOPENGLES_CCOPENGLSHADER_H

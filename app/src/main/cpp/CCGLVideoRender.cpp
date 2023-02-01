@@ -1,6 +1,3 @@
-//
-// Created by chenchao on 2021/8/22.
-//
 
 #include "CCGLVideoRender.h"
 

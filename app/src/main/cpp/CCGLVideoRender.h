@@ -1,6 +1,4 @@
-//
-// Created by chenchao on 2021/8/22.
-//
+
 
 #ifndef JCMPLAYER_CCGLVIDEORENDER_H
 #define JCMPLAYER_CCGLVIDEORENDER_H

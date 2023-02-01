@@ -1,6 +1,3 @@
-//
-// Created by chenchao on 2021/8/20.
-//
 
 #ifndef JCMPLAYER_JCAVCODECHANDLER_H
 #define JCMPLAYER_JCAVCODECHANDLER_H

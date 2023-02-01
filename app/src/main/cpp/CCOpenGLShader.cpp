@@ -1,6 +1,3 @@
-//
-// Created by chenchao on 2021/8/13.
-//
 
 #include "CCOpenGLShader.h"
 #include <string>

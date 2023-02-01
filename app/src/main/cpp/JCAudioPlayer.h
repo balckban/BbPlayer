@@ -1,6 +1,4 @@
-//
-// Created by chenchao on 2021/8/21.
-//
+
 
 #ifndef JCMPLAYER_JCAUDIOPLAYER_H
 #define JCMPLAYER_JCAUDIOPLAYER_H

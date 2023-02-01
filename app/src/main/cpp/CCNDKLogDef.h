@@ -1,6 +1,3 @@
-//
-// Created by chenchao on 2021/8/10.
-//
 
 #ifndef CCOPENGLES_CCNDKLOGDEF_H
 #define CCOPENGLES_CCNDKLOGDEF_H
